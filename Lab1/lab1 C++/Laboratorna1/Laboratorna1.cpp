@@ -1,6 +1,3 @@
-// Laboratorna1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
 using namespace std;
 int main()
@@ -14,7 +11,7 @@ int main()
     cout << "n="; cin >> n;
     cout << "d="; cin >> d;
 
-    int z= a + (n - 1) * d;  //z - n-ий елемент арифметичної прогресії 
+    int z= a + (n - 1) * d;  //z - n-РёР№ РµР»РµРјРµРЅС‚ Р°СЂРёС„РјРµС‚РёС‡РЅРѕС— РїСЂРѕРіСЂРµСЃС–С— 
 
     cout << "n element of arithmetic progression is:" << z;
 }
