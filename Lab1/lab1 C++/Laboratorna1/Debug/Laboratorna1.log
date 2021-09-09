@@ -1,5 +1,0 @@
-﻿  Laboratorna1.cpp
-C:\Users\Andrey\source\repos\Laboratorna1\Laboratorna1.cpp(8,9): warning C4101: 'a': unreferenced local variable
-C:\Users\Andrey\source\repos\Laboratorna1\Laboratorna1.cpp(9,9): warning C4101: 'n': unreferenced local variable
-C:\Users\Andrey\source\repos\Laboratorna1\Laboratorna1.cpp(10,9): warning C4101: 'd': unreferenced local variable
-  Laboratorna1.vcxproj -> C:\Users\Andrey\source\repos\Laboratorna1\Debug\Laboratorna1.exe
