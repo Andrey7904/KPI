@@ -1,1 +1,2 @@
 C:\Users\Andrey\source\repos\Laboratorna6\x64\Debug\Laboratorna6.exe
+D:\KPI\OP\Lab6\Lab6 C++\Laboratorna6\x64\Debug\Laboratorna6.exe

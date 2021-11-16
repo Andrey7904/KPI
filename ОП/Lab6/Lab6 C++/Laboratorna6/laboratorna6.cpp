@@ -2,22 +2,21 @@
 #include <cmath>
 using namespace std;
 
-int n;         //n - global variable
-
-double sqrt(double a, double k);
+double sqrt(double a, double k, int n);
 
 int main() {
 	double a;
+	int n;
 	cout << "Enter (a>0) a=";
 	cin >> a;
 	cout << "Enter n=";
 	cin >> n;
 
-	cout << "Result is: " << (sqrt(a, 3) - sqrt(a * a + 1, 6)) / (1 + sqrt(3 + a, 7));
+	cout << "Result is: " << (sqrt(a, 3, n) - sqrt(a * a + 1, 6, n)) / (1 + sqrt(3 + a, 7, n));
 	
 }
 
-double sqrt(double a, double k) {
+double sqrt(double a, double k, int n) {
 	int i;
 	double y_n = a;                 //y0
 	
