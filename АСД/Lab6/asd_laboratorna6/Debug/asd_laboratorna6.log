@@ -1,0 +1,3 @@
+﻿  asd_lab6.cpp
+C:\Users\Andrey\source\repos\asd_laboratorna6\asd_lab6.cpp(26,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  asd_laboratorna6.vcxproj -> C:\Users\Andrey\source\repos\asd_laboratorna6\Debug\asd_laboratorna6.exe
