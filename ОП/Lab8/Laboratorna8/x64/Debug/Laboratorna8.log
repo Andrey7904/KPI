@@ -1,0 +1,3 @@
+﻿  Laboratorna8.cpp
+C:\Users\Andrey\source\repos\Laboratorna8\Laboratorna8.cpp(28,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Laboratorna8.vcxproj -> C:\Users\Andrey\source\repos\Laboratorna8\x64\Debug\Laboratorna8.exe
