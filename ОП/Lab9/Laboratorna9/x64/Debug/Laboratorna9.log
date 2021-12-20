@@ -1,0 +1,4 @@
+﻿  laboratorna9.cpp
+D:\KPI\OP\Lab9\Laboratorna9\laboratorna9.cpp(54,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\KPI\OP\Lab9\Laboratorna9\laboratorna9.cpp(69,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Laboratorna9.vcxproj -> D:\KPI\OP\Lab9\Laboratorna9\x64\Debug\Laboratorna9.exe
