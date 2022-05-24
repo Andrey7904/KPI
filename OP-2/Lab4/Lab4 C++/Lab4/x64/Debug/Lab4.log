@@ -1,0 +1,5 @@
+﻿  Header.cpp
+  Source.cpp
+C:\Users\Andrey\source\repos\Lab4\Source.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab4.vcxproj -> C:\Users\Andrey\source\repos\Lab4\x64\Debug\Lab4.exe
